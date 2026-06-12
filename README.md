@@ -1,1 +1,1 @@
-Some Linux related scripts
+Some Linux related shell scripts
